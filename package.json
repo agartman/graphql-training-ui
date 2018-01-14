@@ -6,7 +6,6 @@
     "apollo-client-preset": "^1.0.6",
     "graphql": "^0.12.3",
     "graphql-tag": "^2.6.1",
-    "jest-cli": "^22.0.6",
     "react": "^16.2.0",
     "react-apollo": "^2.0.4",
     "react-dom": "^16.2.0",
@@ -21,6 +20,11 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "enzyme": "^3.3.0"
+    "apollo-mocknetworkinterface": "^1.0.0",
+    "apollo-test-utils": "^0.3.2",
+    "enzyme": "^3.3.0",
+    "jest": "20.0.4",
+    "jest-cli": "^20.0.4",
+    "react-test-renderer": "^16.2.0"
   }
 }
